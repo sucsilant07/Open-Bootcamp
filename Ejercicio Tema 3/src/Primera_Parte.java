@@ -1,4 +1,4 @@
-public class Main {
+public class Primera_Parte {
     public static void main(String[] args) {
        suma(20,15,5);
     }
