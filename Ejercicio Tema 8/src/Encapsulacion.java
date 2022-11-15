@@ -1,4 +1,4 @@
-public class Main {
+public class Encapsulacion {
     public static void main(String[] args) {
 
         Persona persona = new Persona();
